@@ -41,6 +41,9 @@ public class AllValuePrint {
        String a1="5",b1="10";
 		
 		System.out.println(a1+b1);
+		
+		int a2=10, b2=20;
+		System.out.println(a2*b2);
 	}
 
 }
